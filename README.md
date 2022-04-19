@@ -2,15 +2,6 @@
 
 npm install
 
-# To compile
-
-    truffle compile
-
-# To deploy in the dev environment
-
-    truffle develop
-    migrate --reset --compile-all
-
 # To deploy in Avalanche
 
 Create a .secret file with your mnemonic. Then run:
